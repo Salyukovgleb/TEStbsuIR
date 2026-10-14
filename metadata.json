@@ -1,0 +1,6 @@
+{
+  "name": "BSUIR Hub",
+  "description": "Современное мобильное и веб-приложение для студентов и преподавателей БГУИР: актуальное расписание, поиск преподавателей и групп, поиск свободного времени и экзамены.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
